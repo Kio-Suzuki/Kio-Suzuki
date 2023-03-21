@@ -22,3 +22,5 @@
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kio-Suzuki&layout=compact&langs_count=16&theme=radical)](https://github.com/kio-suzuki/github-readme-stats)
+<br/><br/>
+![](https://komarev.com/ghpvc/?username=Kio-Suzuki&color=blueviolet)
