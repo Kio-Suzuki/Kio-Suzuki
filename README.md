@@ -12,6 +12,13 @@
 💻 Atualmente cursando o 3º semestre em Bacharelado em Engenharia de Software na UTFPR - Cornélio Procópio
 <br/>
 🎮 Gamer nas horas vagas
+<br/>
+## SETUP
+<div style="display: inline_block"><br/>
+<img align="center" alt="cpu" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+<img align="center" alt="gpu" src="https://img.shields.io/badge/AMD-Radeon_RX_6600XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+</div><br/>
+
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
