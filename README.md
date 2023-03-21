@@ -1,11 +1,17 @@
 
-### Hi there 👊
+### Hi there 👊🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akio-suzuki-a92571254/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561197960944285/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KioSuzuki)
 
 ![Kio-Suzuki GitHub stats](https://github-readme-stats.vercel.app/api?username=Kio-Suzuki&show_icons=true&theme=dracula)
+
+👨🏻‍🎓 Formado em Fisioterapia Bacharelado (2016)
+<br/>
+💻 Atualmente cursando o 3º semestre em Bacharelado em Engenharia de Software na UTFPR - Cornélio Procópio
+<br/>
+🎮 Gamer nas horas vagas
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
@@ -15,4 +21,4 @@
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kio-Suzuki&layout=compact)](https://github.com/kio-suzuki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kio-Suzuki&layout=compact&langs_count=16&theme=dracula)](https://github.com/kio-suzuki/github-readme-stats)
