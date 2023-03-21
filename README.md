@@ -5,7 +5,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561197960944285/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KioSuzuki)
 
-![Kio-Suzuki GitHub stats](https://github-readme-stats.vercel.app/api?username=Kio-Suzuki&show_icons=true&theme=dracula)
+![Kio-Suzuki GitHub stats](https://github-readme-stats.vercel.app/api?username=Kio-Suzuki&show_icons=true&theme=radical)
 
 👨🏻‍🎓 Formado em Fisioterapia Bacharelado (2016)
 <br/>
@@ -21,4 +21,4 @@
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kio-Suzuki&layout=compact&langs_count=16&theme=dracula)](https://github.com/kio-suzuki/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kio-Suzuki&layout=compact&langs_count=16&theme=radical)](https://github.com/kio-suzuki/github-readme-stats)
