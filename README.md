@@ -6,7 +6,9 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/KioSuzuki)
 [![CounterStrike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://beta.leetify.com/app/profile/76561197960944285)
 
-![Kio-Suzuki GitHub stats](https://github-readme-stats.vercel.app/api?username=Kio-Suzuki&show_icons=true&theme=radical)
+![Kio-Suzuki GitHub stats](https://github-readme-stats-kio-suzuki.vercel.app/api?username=Kio-Suzuki&show_icons=true&theme=radical)
+
+https://github-readme-stats-kio-suzuki.vercel.app/
 
 👨🏻‍🎓 Formado em Fisioterapia Bacharelado (2016)
 <br/>
@@ -29,6 +31,6 @@
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kio-Suzuki&layout=compact&langs_count=16&theme=radical)](https://github.com/kio-suzuki/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kio-suzuki.vercel.app/api/top-langs/?username=Kio-Suzuki&layout=compact&langs_count=16&theme=radical)](https://github.com/kio-suzuki/github-readme-stats)
 <br/><br/>
 ![](https://komarev.com/ghpvc/?username=Kio-Suzuki&color=blueviolet)
