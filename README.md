@@ -8,8 +8,6 @@
 
 ![Kio-Suzuki GitHub stats](https://github-readme-stats-kio-suzuki.vercel.app/api?username=Kio-Suzuki&show_icons=true&theme=radical)
 
-https://github-readme-stats-kio-suzuki.vercel.app/
-
 👨🏻‍🎓 Formado em Fisioterapia Bacharelado (2016)
 <br/>
 💻 Atualmente cursando o 3º semestre em Bacharelado em Engenharia de Software na UTFPR - Cornélio Procópio
