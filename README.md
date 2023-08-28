@@ -41,6 +41,8 @@ Minhas atribuições: Prototipação e design.
 <img align="center" alt="rstudio" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
 <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/ >
 </div><br/>
 
 [![Top Langs](https://github-readme-stats-kio-suzuki.vercel.app/api/top-langs/?username=Kio-Suzuki&layout=compact&langs_count=16&theme=radical)](https://github.com/kio-suzuki/github-readme-stats)
