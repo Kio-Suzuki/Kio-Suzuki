@@ -16,7 +16,9 @@
 🎮 Gamer nas horas vagas
 <br/>
 
-📱 Protótipo de app comercial para iOS - desenvolvido na disciplina de Processo e produção de Software
+📱 Protótipo de app comercial para iOS - desenvolvido na disciplina de Processo e produção de Software - 2º semestre (grupo)
+<br/>
+Minhas atribuições: Prototipação e design.
 <br/>
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/MNBC85BKGbex0wGiZ8eBIk/E-commerce?type=design&node-id=1-3&t=8h2N0dDzasVrrfAn-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=21%3A107&hotspot-hints=0&mode=design)
 
