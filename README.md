@@ -13,8 +13,6 @@
 <br/>
 💻 Atualmente cursando o 5º semestre em Bacharelado em Engenharia de Software na UTFPR - Cornélio Procópio
 <br/>
-🎮 Gamer nas horas vagas
-<br/>
 
 📱 Protótipo de app comercial para iOS - desenvolvido na disciplina de Processo e produção de Software - 2º semestre (grupo)
 <br/>
