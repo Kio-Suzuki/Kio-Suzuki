@@ -11,7 +11,7 @@
 
 👨🏻‍🎓 Formado em Fisioterapia Bacharelado (2016)
 <br/>
-💻 Atualmente cursando o 5º semestre em Bacharelado em Engenharia de Software na UTFPR - Cornélio Procópio
+💻 Atualmente cursando o 6º semestre em Bacharelado em Engenharia de Software na UTFPR - Cornélio Procópio
 <br/>
 
 📱 Protótipo de app comercial para iOS - desenvolvido na disciplina de Processo e produção de Software - 2º semestre (grupo)
