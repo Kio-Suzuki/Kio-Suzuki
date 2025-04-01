@@ -20,14 +20,6 @@ Minhas atribuições: Prototipação e design.
 <br/>
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/proto/MNBC85BKGbex0wGiZ8eBIk/E-commerce?type=design&node-id=1-3&t=8h2N0dDzasVrrfAn-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=21%3A107&hotspot-hints=0&mode=design)
 
-## SETUP
-<div style="display: inline_block"><br/>
-<img align="center" alt="cpu" src="https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-<img align="center" alt="gpu" src="https://img.shields.io/badge/AMD-Radeon_RX_6600XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-</div><br/>
-
-
-
 ## Tecnologias
 <div style="display: inline_block"><br/>
 <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
