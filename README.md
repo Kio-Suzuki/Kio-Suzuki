@@ -68,29 +68,20 @@
 
 <img 
   align="left"
-  alt="react"
-  title="react"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"     
-/>
-
-<img 
-  align="left"
-  alt="aws"
-  title="aws"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"   
-/>
-
-<img 
-  align="left"
   alt="c"
   title="c"
   width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"   
+/>
+
+<img 
+  align="left"
+  alt="react"
+  title="react"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"     
 />
 
 <img 
@@ -122,6 +113,15 @@
 
 <img 
   align="left"
+  alt="prisma"
+  title="prisma"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
+/>
+
+<img 
+  align="left"
   alt="figma"
   title="figma"
   width="30px"
@@ -138,6 +138,33 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
 />
 
+<img 
+  align="left"
+  alt="git"
+  title="git"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img 
+  align="left"
+  alt="firebase"
+  title="firebase"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+/>
+
+<img 
+  align="left"
+  alt="aws"
+  title="aws"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"   
+/>
+               
 </br>
 </br>
 </br>
