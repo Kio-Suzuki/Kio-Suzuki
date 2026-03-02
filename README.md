@@ -2,22 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akio-suzuki-a92571254/)
 
-👨🏻‍🎓 Formado em Fisioterapia Bacharelado (2016)
+👨🏻‍🎓 Fisioterapia Bacharelado (2016)
 </br>
-💻 Bacharelado em Engenharia de Software na UTFPR - Cornélio Procópio
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img 
-    alt="github stats"
-    height="200px"
-    src="https://github-readme-stats.vercel.app/api?username=Kio-Suzuki&show_icons=true&theme=tokyonight&include_allcommits=true" 
-  />
-  <img 
-    alt="top languages"
-    height="200px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kio-Suzuki&layout=compact&langs_count=16&theme=tokyonight" 
-  />
-</div>
+💻 Bacharelado em Engenharia de Software, UTFPR - Cornélio Procópio (2025)
 
 ## Tecnologias e linguagens
 
