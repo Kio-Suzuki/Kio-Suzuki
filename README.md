@@ -4,7 +4,7 @@
 
 👨🏻‍🎓 Fisioterapia Bacharelado (2016)
 </br>
-💻 Bacharelado em Engenharia de Software, UTFPR - Cornélio Procópio (2025)
+💻 Bacharelado em Engenharia de Software, UTFPR (2025)
 
 ## Tecnologias e linguagens
 
